@@ -1,7 +1,7 @@
 # unlock-music-app
 
 ## 介绍
- 实际是https://github.com/ix64/unlock-music的网页版的Electron包装
+ 实际是 https://github.com/ix64/unlock-music 的Electron包装
 
 ## 使用说明
  使用mac的话,直接下载release的包,直接运行
