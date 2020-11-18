@@ -1,0 +1,19 @@
+{
+  "name": "unlock-music-app",
+  "version": "1.0.0",
+  "description": "解码加密过的音乐文件,支持qmcflac->flac",
+  "main": "index.js",
+  "scripts": {
+    "package": "electron-packager . unlock-music-app --mac --out ./target --app-version 1.0.0 --electron-version=11.0.1 --overwrite --ignore=node_modules --icon ./favicon.ico",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "isaac.hu",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.0.1"
+  },
+  "devDependencies": {
+    "electron": "^11.0.1"
+  }
+}
