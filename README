@@ -1,7 +1,23 @@
 # unlock-music-app
 
+
 ## 介绍
  实际是 https://github.com/ix64/unlock-music 的Electron包装
+
+## 支持格式
+ QQ音乐 (.qmc0/.qmc2/.qmc3/.qmcflac/.qmcogg/.tkm)
+ 写入封面图片
+ Moo音乐格式 (.bkcmp3/.bkcflac)
+ QQ音乐Tm格式 (.tm0/.tm2/.tm3/.tm6)
+ QQ音乐新格式 (实验性支持)
+ .mflac
+ .mgg
+ 网易云音乐格式 (.ncm)
+ 补全ncm的ID3/FlacMeta信息
+ 虾米音乐格式 (.xm) (测试阶段)
+ 酷我音乐格式 (.kwm) (测试阶段)
+ 酷狗音乐格式 (.kgm) (CLI版本)
+
 
 ## 使用说明
  使用mac的话,直接下载release的包,直接运行
